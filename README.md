@@ -11,9 +11,12 @@
 
 个人技能表：
 
-*通用
+*   通用
+    
     ADOBE:PS熟练/PR熟练/AE了解/AU了解/AI了解/FL知道
     EDIUS：熟练
 
+*    CODE
+     C#,C++,PYTHON
 
 
