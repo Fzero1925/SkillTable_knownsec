@@ -17,6 +17,8 @@
     EDIUS：熟练
 
 *    CODE
-     C#,C++,PYTHON
-
+     C#,C++,PYTHON,C(51单片机)，JAVA(Android)
+     
+*    tools
+     UBUNTU,WEB
 
